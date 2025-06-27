@@ -1,0 +1,20 @@
+payload:
+  # > plex
+  - DOMAIN,metadata.provider.plex.tv
+  - DOMAIN,metadata-static.plex.tv
+  - DOMAIN,assets.plex.tv
+  - DOMAIN,analytics.plex.tv
+  - DOMAIN,images.plex.tv
+  - DOMAIN,app.plex.tv
+  - DOMAIN,discover.provider.plex.tv
+  - DOMAIN,meta.plex.tv
+  - DOMAIN,status.plex.tv
+  - DOMAIN,plex.tv
+  - DOMAIN,clients.plex.tv
+  - DOMAIN,pubsub.plex.tv
+  - DOMAIN,together.plex.tv
+  - DOMAIN,epg.provider.plex.tv
+  - DOMAIN,vod.provider.plex.tv
+  - DOMAIN,api.themoviedb.org
+  - DOMAIN,image.tmdb.org
+  - DOMAIN,api.thetvdb.org
